@@ -175,4 +175,4 @@ public static void  printMan(int num){
 		System.out.println("|    ---    ---");
 	}
  }
-}
+} 
